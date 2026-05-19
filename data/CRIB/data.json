@@ -1,0 +1,13 @@
+{
+  "name": "CRIB",
+  "symbol": "CRIB",
+  "decimals": 18,
+  "description": "GALACTIMINE Network utility token",
+  "website": "https://www.cribini.com",
+  "twitter": "@CRIBtoken",
+  "tokens": {
+    "ethereum": {
+      "address": "0xC06AC15756043f9AB9dd18657697E054B9e51E8B"
+    }
+  }
+}
